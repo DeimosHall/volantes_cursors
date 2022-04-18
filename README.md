@@ -1,5 +1,5 @@
 # Volantes cursors installer
-> NOTE: I'm not the creator of volantes cursors icon theme, I just created a python script to install it for my personal use. Click [here](https://github.com/varlesh/volantes-cursors "here") to visit original project.
+> NOTE: I'm not the creator of volantes cursors icon theme, I just created a python script to install it for my personal use. Click [here](https://github.com/varlesh/volantes-cursors "here") to visit the original project.
 
 ## Installation
 Clone the repository
